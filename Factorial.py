@@ -1,4 +1,3 @@
 def factorial():
     pass
 
-factorial()
